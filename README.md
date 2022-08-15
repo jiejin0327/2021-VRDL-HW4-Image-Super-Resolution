@@ -5,8 +5,8 @@ HW4 Introduction: Image super resolution
 The proposed challenge is an image super resolution, and we have to train the model to reconstruct a high-resolution image from a low-resolution input. There are three parts in my project:
 
 1. Split training dataset to train and valid datasets.
-  The train images are scaled down by 3 times as the low-resolution images.
-2. Train the model to generate the high-resolution image
+2. The train images are scaled down by 3 times as the low-resolution images.
+3. Train the model to generate the high-resolution image
   I implemented the Lightweight Image Super-Resolution with Information Multi-distillation Network (IMDN) to fix this challenge.
 
 
